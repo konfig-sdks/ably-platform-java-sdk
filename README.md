@@ -21,7 +21,7 @@ If you are adding this library to an Android Application or Library:
 
 ## Installation<a id="installation"></a>
 <div align="center">
-  <a href="https://konfigthis.com/sdk-sign-up?company=Ably&%20serviceName=Platform%20&language=Java">
+  <a href="https://konfigthis.com/sdk-sign-up?company=Ably&serviceName=Platform&language=Java">
     <img src="https://raw.githubusercontent.com/konfig-dev/brand-assets/HEAD/cta-images/java-cta.png" width="70%">
   </a>
 </div>
